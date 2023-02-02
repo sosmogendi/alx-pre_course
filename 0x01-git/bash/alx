@@ -1,6 +1,8 @@
 #!/bin/bash
 <<<<<<< HEAD
-echo "ALX School is so cool!"
+open an issue
+echo "ALX School is so cool!" 
 =======
+Goodbye
 echo "ALX School"
 >>>>>>> update_script
